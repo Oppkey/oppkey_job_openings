@@ -4,7 +4,7 @@
 
 last updated July 23, 2021
 
-![OpenJS Logo](https://firebasestorage.googleapis.com/v0/b/oppkey-site.appspot.com/o/oppkey%2FOpenJS_Foundation_Logo.jpg?alt=media)
+![OpenJS Logo](https://firebasestorage.googleapis.com/v0/b/oppkey-site.appspot.com/o/oppkey%2FOpenJS_Foundation_Logo.webp?alt=media)
 
 ## OpenJS Foundation Overview
 
