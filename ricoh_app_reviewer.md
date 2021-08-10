@@ -15,7 +15,8 @@ make better use of the RICOH THETA camera.  We do not sell anything on the site.
 
 ## Payment
 
-* You'll receive between $100 and $300 per review
+* You'll receive between $100 and $300 per project
+  * Projects include summarizing an OpenJS video, interviewing an OpenJS expert. Scope and price will be clarified before you start.
 * After we accept the article, the money will be sent by bank transfer or a service such as PayPal
 
 ## Responsibilities
