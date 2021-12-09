@@ -6,7 +6,7 @@
 * Salary: $60,000 per year
 * Benefits: No medical benefits currently offered
  
-Oppkey is looking for someone interested in a Technical Marketing Manager to join our team. This is a varied role, and as part of a small team, working in a deadline-driven environment, you will be deeply involved with detailed, high quality marketing activities aiming at building developer communities and technology-focused companies. We are looking for a candidate who can interview executives or other industry experts and present themselves professionally. 
+Oppkey is looking for someone interested in a Technical Marketing to join our team. This is a varied role, and as part of a small team, working in a deadline-driven environment, you will be deeply involved with detailed, high quality marketing activities aiming at building developer communities and technology-focused companies. We are looking for a candidate who can interview executives or other industry experts and present themselves professionally. 
  
 Oppkey employment is in Palo Alto, California. Due to health restrictions, employment is virtual.
   
