@@ -21,7 +21,7 @@ No prior marketing or communications work experience needed. We will provide tra
 * Great first job or a great way to transition from development or sales engineering into cutting-edge marketing
 * Firm is established and has an impressive client roster but is managed by a small team. Get in now and help grow the firm. Enjoy both the financial rewards and emotional satisfaction of doing something that has an impact as you help us build a great company.
  
-### Preferred Expected Bachelors Degrees
+## Preferred Expected Bachelors Degrees
 * Physics, Chemistry, Biology, Statistics, Data Science
 * Computer Science, Engineering
 * Environmental Science
