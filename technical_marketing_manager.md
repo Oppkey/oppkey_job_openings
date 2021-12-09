@@ -26,6 +26,6 @@ No prior marketing or communications work experience needed. We will provide tra
 * Computer Science, Engineering
 * Environmental Science
  
-Preference will be given to applications that have one or more of the following:
+## Preference will be given to applications that have one or more of the following:
 * Minor in professional writing or related field
 * Marketing internships or summer jobs
