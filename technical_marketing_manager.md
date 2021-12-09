@@ -1,4 +1,5 @@
 # Technical Marketing Manager
+_last updated Dec 8, 2021_
 
 ## Job Description
 * Location: Palo Alto, CA (depending on health situation) and remote (mainly remote initially)
